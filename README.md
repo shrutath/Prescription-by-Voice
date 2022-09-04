@@ -40,7 +40,6 @@ Therefore,  the  patient  can  get  the details  from  the  doctor  in the  form
 
 **Dependencies :  
 Photoshop(template design and standard resolution)
-Speech Recognition -> https://youtu.be/K_WbsFrPUCk
 Python Packages:
 Tkinter GUI(window application , Graphical User Interface)                                                                               Open cv(Image Manipulation) 
 Pillow(Conversion of image to pdf)
