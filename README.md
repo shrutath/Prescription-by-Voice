@@ -1,9 +1,4 @@
-# voice-prescription 
-A PROBLEM STATMENT OF SIH(Smart india Hackathon) 2020
-Technology Bucket : Health Care and Bio Medical Devices  	
-Category: Software
-Company Name/Ministry Name:  Bajaj Fin Serv
-Problem Code :  AP63 (https://www.sih.gov.in/sih2020)
+# Prescription-by-Voice 
 
 voice prescription: 🗣🩺⚕️
 
